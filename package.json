@@ -1,0 +1,11 @@
+{
+  "name": "a9-open-rgb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "iohook": "^0.9.3",
+    "openrgb-sdk": "^0.5.2"
+  }
+}
